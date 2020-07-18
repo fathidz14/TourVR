@@ -29040,7 +29040,7 @@
  "borderRadius": 0,
  "insetBorder": false,
  "minHeight": 1,
- "url": "http://islamicart.museumwnf.org/database_item.php?id=object;ISL;dz;Mus01;50;en",
+ "url": "http://islamicart.museumwnf.org/database_item.php?id=object;ISL;dz;Mus01;50;en&cp",
  "backgroundColorRatios": [
   0
  ],
