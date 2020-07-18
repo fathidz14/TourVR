@@ -29040,7 +29040,8 @@
  "borderRadius": 0,
  "insetBorder": false,
  "minHeight": 1,
- "url": "http://islamicart.museumwnf.org/database_item.php?id=object;ISL;dz;Mus01;50;en&cp",
+ "url": "<blockquote class="embedly-card"><h4><a href="http://islamicart.museumwnf.org/database_item.php?id=object;ISL;dz;Mus01;50;en">Discover Islamic Art - Virtual Museum - object_ISL_dz_Mus01_50_en</a></h4><p>Funerary stele of Abu 'Abdallah ibn Khalifa Algiers, Algeria National Museum of Antiquities and Islamic Arts About National Museum of Antiquities and Islamic Arts, Algiers Hegira 488 / AD 1095 II.S.96 Sculpted sandstone. Height 24 cm, length 107 cm, width 31 cm Hammadid Qal'at Bani Hammad, Algeria.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>",
  "backgroundColorRatios": [
   0
  ],
